@@ -1,30 +1,35 @@
-# Getting Started with GitHub Copilot
+<div align="center">
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# 🎉 Congratulations Konigmann2025! 🎉
 
-Hey Konigmann2025!
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### 🌟 You've successfully completed the exercise! 🌟
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## 🚀 Share Your Success!
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Konigmann2025/skills-getting-started-with-github-copilot3/issues/1)
+**Show off your new skills and inspire others!**
 
-## Running tests
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Getting%20Started%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FKonigmann2025%2Fskills-getting-started-with-github-copilot3%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Getting%20Started%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FKonigmann2025%2Fskills-getting-started-with-github-copilot3%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Getting%20Started%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FKonigmann2025%2Fskills-getting-started-with-github-copilot3%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-This project uses `pytest` for backend FastAPI tests.
+### 🎯 What's Next?
 
-1. Install dependencies:
+**Keep the momentum going!**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Konigmann2025/skills-getting-started-with-github-copilot3/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-2. Run the test suite from the repository root:
+*There's no better way to learn than building things!* 🚀
 
-   ```bash
-   python -m pytest
-   ```
+</div>
 
 ---
 
